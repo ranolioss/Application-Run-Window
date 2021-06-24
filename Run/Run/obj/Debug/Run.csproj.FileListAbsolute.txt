@@ -1,0 +1,10 @@
+C:\Users\Ranolios\source\repos\Run\Run\bin\Debug\Run.exe.config
+C:\Users\Ranolios\source\repos\Run\Run\bin\Debug\Run.exe
+C:\Users\Ranolios\source\repos\Run\Run\bin\Debug\Run.pdb
+C:\Users\Ranolios\source\repos\Run\Run\obj\Debug\Run.csprojAssemblyReference.cache
+C:\Users\Ranolios\source\repos\Run\Run\obj\Debug\Run.Form1.resources
+C:\Users\Ranolios\source\repos\Run\Run\obj\Debug\Run.Properties.Resources.resources
+C:\Users\Ranolios\source\repos\Run\Run\obj\Debug\Run.csproj.GenerateResource.cache
+C:\Users\Ranolios\source\repos\Run\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+C:\Users\Ranolios\source\repos\Run\Run\obj\Debug\Run.exe
+C:\Users\Ranolios\source\repos\Run\Run\obj\Debug\Run.pdb
